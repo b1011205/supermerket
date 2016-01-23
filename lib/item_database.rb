@@ -14,6 +14,7 @@ class ItemDatabase
         return item
       end
     end
+    nil
   end
 
 end
